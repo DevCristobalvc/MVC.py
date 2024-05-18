@@ -111,15 +111,20 @@ if __name__ == "__main__":
 ```
 
 ## Uso
+1. Clona en repositorio usando la cmd o [GitBash](https://git-scm.com/downloads)
 
-1. Asegúrate de que los archivos `modelo.py`, `vista.py`, `controlador.py`, y `app.py` estén en el mismo directorio.
-2. Ejecuta el archivo `app.py` con Python:
+```
+https://github.com/DevCristobalvc/MVC.py.git
+```
+
+2. Asegúrate de que los archivos `modelo.py`, `vista.py`, `controlador.py`, y `app.py` estén en el mismo directorio.
+3. Ejecuta el archivo `app.py` con Python:
 
 ```
 python app.py
 ```
 
-3. Sigue las instrucciones en pantalla para listar usuarios o añadir un nuevo usuario.
+4. Sigue las instrucciones en pantalla para listar usuarios o añadir un nuevo usuario.
 
 ## Requisitos
 
