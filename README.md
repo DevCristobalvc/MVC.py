@@ -2,7 +2,7 @@
 
 Este proyecto es una aplicación de gestión de usuarios que sigue el patrón de diseño Modelo-Vista-Controlador (MVC) en Python. Permite listar y añadir usuarios almacenados en un archivo de texto.
 
-## Autor: [DevCristobalvc](https://devcristobalvc.netlify.app/) -> cristobalvalencia3002@gmail.com
+### Autor: [DevCristobalvc](https://devcristobalvc.netlify.app/) -> cristobalvalencia3002@gmail.com
 
 ## Estructura del Proyecto
 
